@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minHeight="?attr/actionBarSize"
+    android:id="@+id/toolbar"
+    android:background="@color/colorPrimary"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:popupTheme="@style/Theme.AppCompat.Light"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/ic_logosimpsons"
+            android:layout_width="@dimen/anchuraToolbar"
+            android:layout_height="@dimen/alturaToolbar">
+        </ImageView>
+
+</androidx.appcompat.widget.Toolbar>

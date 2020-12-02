@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="alturaLv">120dp</dimen>
+    <dimen name="textLv">15sp</dimen>
+    <dimen name="anchuraToolbar">300dp</dimen>
+    <dimen name="alturaToolbar">100</dimen>
+    <dimen name="paddinGeneral">28dp</dimen>
+    <dimen name="margentop">10dp</dimen>
+    <dimen name="tamaniobotton">360dp</dimen>
+</resources>
